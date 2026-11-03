@@ -115,8 +115,6 @@ const reksa = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=reksavgo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&ring_color=A78BFA" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reksavgo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top Languages" />
 
 <br/>
 
@@ -129,7 +127,7 @@ const reksa = {
 
 <br/>
 
-<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
+
 
 
 <br/>
