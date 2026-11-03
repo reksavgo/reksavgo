@@ -124,18 +124,13 @@ const reksa = {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=reksavgo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
 
 </div>
 
 <br/>
 
 <!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reksavgo&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
 
 <br/>
 
